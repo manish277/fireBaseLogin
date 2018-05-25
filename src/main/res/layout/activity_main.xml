@@ -1,0 +1,47 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll2"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="10dp"
+    android:background="#756062d9">
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/et6"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:textSize="20sp"
+        android:textColorHint="@android:color/white"
+        android:ems="10"
+        android:layout_margin="10dp"
+        android:textColor="#fefeff"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/et7"
+        android:hint="password"
+        android:inputType="numberPassword"
+        android:textSize="20sp"
+        android:textColorHint="@android:color/white"
+        android:ems="10"
+        android:layout_margin="10dp"
+        android:textColor="#fefeff"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/b2"
+        android:text="Sign In"
+        android:textStyle="bold"
+        android:ems="10"
+        android:fontFamily="cursive"
+        android:onClick="sign_in"
+        android:textSize="20sp"/>
+</LinearLayout>
+
+
+
+
+
+
