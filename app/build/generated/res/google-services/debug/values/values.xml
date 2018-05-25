@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">695179455043-mjnf5f3j6s4jjecn3tknc17fund700ep.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://authentication-1d8e4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">695179455043</string>
+    <string name="google_api_key" translatable="false">AIzaSyCSNBjruWnBHqj7f_KrVau-jWBO3IGsoTM</string>
+    <string name="google_app_id" translatable="false">1:695179455043:android:804a145b6079f5cb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCSNBjruWnBHqj7f_KrVau-jWBO3IGsoTM</string>
+    <string name="google_storage_bucket" translatable="false">authentication-1d8e4.appspot.com</string>
+    <string name="project_id" translatable="false">authentication-1d8e4</string>
+</resources>
